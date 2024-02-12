@@ -88,6 +88,7 @@ export default function Page() {
           </>
         )}
       </div>
+      <footer className="footer">Made by Chinmayi Upendra Joshi</footer>
     </div>
   );
 }
